@@ -1,2 +1,2 @@
-// app.js
-console.log('This is the development branch!');
+// app.js (development branch change)
+console.log('This is a change in the development branch.');
